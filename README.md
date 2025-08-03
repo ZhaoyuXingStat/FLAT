@@ -1,4 +1,4 @@
 # FLAT
-The R tools for the method FLAT for modeling spatial heterogeneity 
+The R and Matlab tools for the newly proposed method FLAT.
 
-Please see the journal paper here: https://arxiv.org/abs/2507.09800 
+Please see my working paper here: https://arxiv.org/abs/2507.09800 
